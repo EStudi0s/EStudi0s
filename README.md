@@ -1,4 +1,4 @@
-- Hey people, I’m @EStudi0s
-- I’m interested in design and python
-- Pronouns: he/him
-- Fun fact: i cant code well :(
+- I’m @EStudi0s
+- UI/UX Designer
+- Trying to learn how to code better
+- Hopefully chill guy
